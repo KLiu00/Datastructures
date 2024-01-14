@@ -13,7 +13,12 @@ int main() {
 	ll.Append(y);
 	ll.Append(z);
 
+	std::cout << ll.Length() << "\n";
 	ll.Peek();
+	ll.Pop();
+
+	ll.Peek();
+	std::cout << ll.Length() << "\n";
 
 	return 0;
 }
