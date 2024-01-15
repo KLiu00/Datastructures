@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Linked List\linkedlist.cpp" />
     <ClCompile Include="Linked List\main.cpp" />
+    <ClCompile Include="Queue\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Linked List\linkedlist.h" />

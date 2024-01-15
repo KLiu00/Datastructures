@@ -21,6 +21,9 @@
     <ClCompile Include="Linked List\linkedlist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Queue\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Linked List\node.h">
