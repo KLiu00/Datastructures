@@ -130,10 +130,12 @@
     <ClCompile Include="Linked List\linkedlist.cpp" />
     <ClCompile Include="Linked List\main.cpp" />
     <ClCompile Include="Queue\main.cpp" />
+    <ClCompile Include="Queue\queue.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Linked List\linkedlist.h" />
-    <ClInclude Include="Linked List\node.h" />
+    <ClInclude Include="node.h" />
+    <ClInclude Include="Queue\queue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
